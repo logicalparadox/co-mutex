@@ -1,6 +1,6 @@
 {
   "name": "co-mutex",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Mutex primitive for generator flow control.",
   "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)",
   "license": "MIT",
