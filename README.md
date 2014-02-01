@@ -1,5 +1,7 @@
 # co-mutex
 
+[![Build Status](https://travis-ci.org/logicalparadox/co-mutex.png?branch=master)](https://travis-ci.org/logicalparadox/co-mutex)
+
 > [Mutex](http://en.wikipedia.org/wiki/Mutual_exclusion) primitive for generator flow control.
 
 ## Installation
